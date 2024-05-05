@@ -16,4 +16,5 @@ memory_cos=3
 ```
 
 3. Run ```./train_gan```
-4. Enjoy !!!
+4. (Optional) If you want to use multi-process on ```./train_gan```. ```start_gan.sh``` with the specified number of processes is all you need.
+5. Enjoy !!!
